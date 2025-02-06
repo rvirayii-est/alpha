@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+product-client/.vscode/
+product-client/node_modules/
+product-client/.editorconfig
+product-client/package-lock.json
